@@ -1,0 +1,29 @@
+*React Routing*
+- routing in react is a third party library used to provide navigation between the two components/pages without reloading the pages.
+- routing not belongs to react by default , we have to install this third party library.
+- library is "react-router-dom".
+
+- npm install react-router-dom@latest
+
+"react-router-dom": "^7.1.5",
+ 7 - major updation
+ 1 - minor updation
+ 5 - patch(small updations)
+
+
+*CRUD Operations*
+Create - POST()
+Read - GET()
+Update - PUT()
+Delete - DELETE()
+
+https:- hypertext transfer protocol
+	http, tcp, smtp, ftp, etc...
+
+*Server*
+is stateless - it will not store the data, only for a session it can store the data
+
+JSON server- 
+- npm install json-server -g
+
+- npm install axios
