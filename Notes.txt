@@ -20,10 +20,16 @@ Delete - DELETE()
 https:- hypertext transfer protocol
 	http, tcp, smtp, ftp, etc...
 
+
 *Server*
 is stateless - it will not store the data, only for a session it can store the data
 
-JSON server- 
-- npm install json-server -g
 
+*JSON server*- to store temporary data
+- npm install json-server -g
+- create a folder called db , inside db create a json file to store the data.
+
+- axios library to fetch the data from the api.
 - npm install axios
+
+To run:- json-server --
