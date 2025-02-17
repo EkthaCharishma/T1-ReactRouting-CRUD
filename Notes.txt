@@ -32,4 +32,4 @@ is stateless - it will not store the data, only for a session it can store the d
 - axios library to fetch the data from the api.
 - npm install axios
 
-To run:- json-server --
+To run:- json-server --watch users.json --port=8000
